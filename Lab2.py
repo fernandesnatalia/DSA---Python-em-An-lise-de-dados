@@ -22,3 +22,6 @@ elif valor == 3:
 else:
     entrada1 / entrada2
     print(entrada1, "÷", entrada2, "=", entrada1 / entrada2)
+
+#Calculadora propositalmente sem tratamento de erro ou retorno ao início
+#Proposta do módulo 3 do curso DSA
