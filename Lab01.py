@@ -164,5 +164,5 @@ game = canvas.create_text(400, 300, text=" ", fill="red", font=("Arial", 40))
 # Declarar botão para iniciar novamente
 canvas.bind_all("<Button-1>", start_game)
 
-#repetição do jogo
+# Executar e repetição do jogo
 root.mainloop()
