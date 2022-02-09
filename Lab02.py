@@ -22,5 +22,5 @@ elif valor == 4:
 else:
     print("Valor inválido, tente novamente")
 
-#Calculadora propositalmente sem tratamento de erro ou retorno ao início
-#Mensagem de valor inválido propositalmente após entrada1 e 2
+# Calculadora propositalmente sem tratamento de erro ou retorno ao início
+# Mensagem de valor inválido propositalmente após entrada1 e 2
